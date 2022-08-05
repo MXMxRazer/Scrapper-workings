@@ -1,0 +1,17 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^15.4.0",
+    "request": "^2.88.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
